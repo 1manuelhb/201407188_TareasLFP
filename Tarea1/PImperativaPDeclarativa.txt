@@ -1,0 +1,18 @@
+Un lenguaje imperativo es aquel que sigue unas instruciones las
+cueles el programador define.
+
+En cambio un lenguaje declarativo, las instruciones siguen
+un sentencias ya preestablecidas o condiciones iniciales ya 
+establecidas.
+
+-----------------------------------------------------------
+Ejemplo
+
+
+SELECT * FROM Libros order by Titulo
+
+----------------------------------------------------------
+
+La sentencia SQL anterior indica  que se muestre la tabla
+libros ordenados por titulo, pero no especifica al programa
+como debe buscar mucho menos, como ordenar la tabla.
